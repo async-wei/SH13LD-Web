@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://async-wei.github.io/SH13LD-Web",
+  "homepage": "https://async-wei.github.io/SH13LD-Web/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
